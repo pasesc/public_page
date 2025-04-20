@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.4">
   <diagram name="第 1 页" id="sK5CW0gL5bVgwP4VUOw-">
-    <mxGraphModel dx="1944" dy="6321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2547" dy="7161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,154 +371,283 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;用户&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="-3690" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1500" y="-3630" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录/注册&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-4120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-873" y="-4080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.609;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-1" target="l-RV9WYsL8Un5XXR3H3W-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-560" y="-3520" as="sourcePoint" />
-            <mxPoint x="-510" y="-3570" as="targetPoint" />
+            <mxPoint x="-960" y="-3550" as="sourcePoint" />
+            <mxPoint x="-910" y="-3600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-3890" width="120" height="60" as="geometry" />
+          <mxGeometry x="-860" y="-3870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-1" target="l-RV9WYsL8Un5XXR3H3W-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="-3610" as="sourcePoint" />
-            <mxPoint x="-390" y="-3660" as="targetPoint" />
+            <mxPoint x="-840" y="-3640" as="sourcePoint" />
+            <mxPoint x="-790" y="-3690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;坐诊医生查询&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="-3630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-873" y="-3680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.512;exitY=0.793;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-1" target="l-RV9WYsL8Un5XXR3H3W-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="-3610" as="sourcePoint" />
-            <mxPoint x="-390" y="-3660" as="targetPoint" />
+            <mxPoint x="-840" y="-3640" as="sourcePoint" />
+            <mxPoint x="-790" y="-3690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统首页&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="-3430" width="120" height="80" as="geometry" />
+          <mxGeometry x="-873" y="-3505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-1" target="l-RV9WYsL8Un5XXR3H3W-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="-3610" as="sourcePoint" />
-            <mxPoint x="-390" y="-3660" as="targetPoint" />
+            <mxPoint x="-840" y="-3640" as="sourcePoint" />
+            <mxPoint x="-790" y="-3690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-12" value="操作记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="-3140" width="120" height="80" as="geometry" />
+          <mxGeometry x="-890" y="-3210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-1" target="l-RV9WYsL8Un5XXR3H3W-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-440" y="-3570" as="sourcePoint" />
-            <mxPoint x="-390" y="-3620" as="targetPoint" />
+            <mxPoint x="-840" y="-3600" as="sourcePoint" />
+            <mxPoint x="-790" y="-3650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-14" value="&lt;font size=&quot;1&quot;&gt;修改个人信息&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="-3880" width="140" height="50" as="geometry" />
+          <mxGeometry x="-100" y="-3840" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-15" value="专业背景" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-3720" width="140" height="50" as="geometry" />
+          <mxGeometry x="-510" y="-3780" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-21" value="擅长领域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-3650" width="140" height="50" as="geometry" />
+          <mxGeometry x="-520" y="-3710" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-22" value="坐诊时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-3580" width="140" height="50" as="geometry" />
+          <mxGeometry x="-510" y="-3640" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-6" target="l-RV9WYsL8Un5XXR3H3W-14">
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-6">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-210" y="-3610" as="sourcePoint" />
-            <mxPoint x="-50" y="-3610" as="targetPoint" />
+            <mxPoint x="-610" y="-3640" as="sourcePoint" />
+            <mxPoint x="-499.9499441733351" y="-3844.0547304841443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-12" target="l-RV9WYsL8Un5XXR3H3W-41">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-160" y="-3200" as="sourcePoint" />
-            <mxPoint x="-30.000000000000004" y="-3197" as="targetPoint" />
+            <mxPoint x="-560" y="-3230" as="sourcePoint" />
+            <mxPoint x="-430" y="-3227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-10" target="l-RV9WYsL8Un5XXR3H3W-36">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-180" y="-3770" as="sourcePoint" />
-            <mxPoint x="-50.00000000000001" y="-3767" as="targetPoint" />
+            <mxPoint x="-580" y="-3800" as="sourcePoint" />
+            <mxPoint x="-450" y="-3797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-8" target="l-RV9WYsL8Un5XXR3H3W-22">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-180" y="-3740" as="sourcePoint" />
-            <mxPoint x="-50.00000000000001" y="-3737" as="targetPoint" />
+            <mxPoint x="-580" y="-3770" as="sourcePoint" />
+            <mxPoint x="-450" y="-3767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-8" target="l-RV9WYsL8Un5XXR3H3W-21">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-180" y="-3720" as="sourcePoint" />
-            <mxPoint x="-50.00000000000001" y="-3717" as="targetPoint" />
+            <mxPoint x="-580" y="-3750" as="sourcePoint" />
+            <mxPoint x="-450" y="-3747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-8" target="l-RV9WYsL8Un5XXR3H3W-15">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-190" y="-3696.5" as="sourcePoint" />
-            <mxPoint x="-60.00000000000001" y="-3693.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-180.49" y="-3570" as="sourcePoint" />
-            <mxPoint x="-50.49" y="-3546" as="targetPoint" />
+            <mxPoint x="-590" y="-3726.5" as="sourcePoint" />
+            <mxPoint x="-460" y="-3723.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-10" target="l-RV9WYsL8Un5XXR3H3W-35">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-187.49" y="-3750" as="sourcePoint" />
-            <mxPoint x="-57.49000000000001" y="-3747" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-180" y="-3554" as="sourcePoint" />
-            <mxPoint x="-50" y="-3530" as="targetPoint" />
+            <mxPoint x="-587.49" y="-3780" as="sourcePoint" />
+            <mxPoint x="-457.49" y="-3777" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-10" target="l-RV9WYsL8Un5XXR3H3W-34">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-187" y="-3734" as="sourcePoint" />
-            <mxPoint x="-57.00000000000001" y="-3731" as="targetPoint" />
+            <mxPoint x="-587" y="-3764" as="sourcePoint" />
+            <mxPoint x="-457" y="-3761" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-34" value="&lt;font size=&quot;1&quot;&gt;健康资讯&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-3460" width="140" height="50" as="geometry" />
+          <mxGeometry x="-520" y="-3520" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-35" value="&lt;font size=&quot;1&quot;&gt;医生推荐&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-3400" width="140" height="50" as="geometry" />
+          <mxGeometry x="-520" y="-3450" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-36" value="疾病资讯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-3330" width="140" height="50" as="geometry" />
+          <mxGeometry x="-530" y="-3380" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-12" target="l-RV9WYsL8Un5XXR3H3W-42">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-160" y="-3180" as="sourcePoint" />
-            <mxPoint x="-30.000000000000004" y="-3177" as="targetPoint" />
+            <mxPoint x="-560" y="-3210" as="sourcePoint" />
+            <mxPoint x="-430" y="-3207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-38" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-12" target="l-RV9WYsL8Un5XXR3H3W-43">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-160" y="-3160" as="sourcePoint" />
-            <mxPoint x="-30.000000000000004" y="-3157" as="targetPoint" />
+            <mxPoint x="-560" y="-3190" as="sourcePoint" />
+            <mxPoint x="-430" y="-3187" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-41" value="收藏的医生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-3200" width="140" height="50" as="geometry" />
+          <mxGeometry x="-530" y="-3280" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-42" value="收藏的疾病" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-3130" width="140" height="50" as="geometry" />
+          <mxGeometry x="-540" y="-3195" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-43" value="治疗方案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-3060" width="140" height="50" as="geometry" />
+          <mxGeometry x="-540" y="-3110" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-22" target="l-RV9WYsL8Un5XXR3H3W-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-52" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;医生&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="-5290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录/注册&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-863" y="-5740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.609;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-52" target="l-RV9WYsL8Un5XXR3H3W-53" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-950" y="-5210" as="sourcePoint" />
+            <mxPoint x="-900" y="-5260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="-5530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-52" target="l-RV9WYsL8Un5XXR3H3W-55" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-830" y="-5300" as="sourcePoint" />
+            <mxPoint x="-780" y="-5350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;坐诊医生查询&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-863" y="-5340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.512;exitY=0.793;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-52" target="l-RV9WYsL8Un5XXR3H3W-57" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-830" y="-5300" as="sourcePoint" />
+            <mxPoint x="-780" y="-5350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统首页&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-863" y="-5165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-52" target="l-RV9WYsL8Un5XXR3H3W-59" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-830" y="-5300" as="sourcePoint" />
+            <mxPoint x="-780" y="-5350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-61" value="操作记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="-4870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-52" target="l-RV9WYsL8Un5XXR3H3W-61" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-830" y="-5260" as="sourcePoint" />
+            <mxPoint x="-780" y="-5310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-63" value="专业背景" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-5440" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-64" value="擅长领域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-5370" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-65" value="坐诊时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-5300" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-55" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-600" y="-5300" as="sourcePoint" />
+            <mxPoint x="-489.9499441733351" y="-5504.054730484144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-67" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-61" target="l-RV9WYsL8Un5XXR3H3W-79" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-550" y="-4890" as="sourcePoint" />
+            <mxPoint x="-420" y="-4887" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-68" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-59" target="l-RV9WYsL8Un5XXR3H3W-76" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-570" y="-5460" as="sourcePoint" />
+            <mxPoint x="-440" y="-5457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-69" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-57" target="l-RV9WYsL8Un5XXR3H3W-65" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-570" y="-5430" as="sourcePoint" />
+            <mxPoint x="-440" y="-5427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-70" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-57" target="l-RV9WYsL8Un5XXR3H3W-64" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-570" y="-5410" as="sourcePoint" />
+            <mxPoint x="-440" y="-5407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-71" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-57" target="l-RV9WYsL8Un5XXR3H3W-63" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-580" y="-5386.5" as="sourcePoint" />
+            <mxPoint x="-450" y="-5383.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-72" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-59" target="l-RV9WYsL8Un5XXR3H3W-75" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-577.49" y="-5440" as="sourcePoint" />
+            <mxPoint x="-447.49" y="-5437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-73" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-59" target="l-RV9WYsL8Un5XXR3H3W-74" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-577" y="-5424" as="sourcePoint" />
+            <mxPoint x="-447" y="-5421" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-74" value="&lt;font size=&quot;1&quot;&gt;健康资讯&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-5180" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-75" value="&lt;font size=&quot;1&quot;&gt;医生推荐&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-5110" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-76" value="疾病资讯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-5040" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-61" target="l-RV9WYsL8Un5XXR3H3W-80" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-550" y="-4870" as="sourcePoint" />
+            <mxPoint x="-420" y="-4867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-78" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-61" target="l-RV9WYsL8Un5XXR3H3W-81" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-550" y="-4850" as="sourcePoint" />
+            <mxPoint x="-420" y="-4847" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-79" value="收藏的医生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-4940" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-80" value="收藏的疾病" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-4855" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-81" value="治疗方案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-4770" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-65" target="l-RV9WYsL8Un5XXR3H3W-65" parent="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
