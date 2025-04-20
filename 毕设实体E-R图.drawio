@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.4">
   <diagram name="第 1 页" id="sK5CW0gL5bVgwP4VUOw-">
-    <mxGraphModel dx="2771" dy="9828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2492" dy="10586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1088,6 +1088,57 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6590" y="-6230" as="sourcePoint" />
             <mxPoint x="6640" y="-6280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-266" value="个人中心模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4440" y="-8170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-267" value="修改个人资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="-8300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-268" value="查看个人资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4750" y="-8020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-269" value="管理个人行为信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4750" y="-8160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-270" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-266" target="l-RV9WYsL8Un5XXR3H3W-267">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4670" y="-7980" as="sourcePoint" />
+            <mxPoint x="4720" y="-8030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-271" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-266" target="l-RV9WYsL8Un5XXR3H3W-269">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4560" y="-8164" as="sourcePoint" />
+            <mxPoint x="4760" y="-8246" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4670" y="-8130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-272" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-266" target="l-RV9WYsL8Un5XXR3H3W-268">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4670" y="-7980" as="sourcePoint" />
+            <mxPoint x="4720" y="-8030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-273" value="评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5020" y="-8230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-274" value="收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5020" y="-8080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-275" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-269" target="l-RV9WYsL8Un5XXR3H3W-274">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4810" y="-7970" as="sourcePoint" />
+            <mxPoint x="4860" y="-8020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-276" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-269" target="l-RV9WYsL8Un5XXR3H3W-273">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4810" y="-7970" as="sourcePoint" />
+            <mxPoint x="4860" y="-8020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
