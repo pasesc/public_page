@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.4">
   <diagram name="第 1 页" id="sK5CW0gL5bVgwP4VUOw-">
-    <mxGraphModel dx="3813" dy="7007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4275" dy="8425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -609,6 +609,240 @@
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-94" value="&lt;font size=&quot;1&quot;&gt;生成治疗建议&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-4950" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-95" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;管理员&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-4960" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-96" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录/注册&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1903" y="-5390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.609;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-95" target="l-RV9WYsL8Un5XXR3H3W-96" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="-4880" as="sourcePoint" />
+            <mxPoint x="1950" y="-4930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-5210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-95" target="l-RV9WYsL8Un5XXR3H3W-98" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="-4970" as="sourcePoint" />
+            <mxPoint x="2070" y="-5020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-100" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;内容管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-4900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-101" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.512;exitY=0.793;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-95" target="l-RV9WYsL8Un5XXR3H3W-100" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="-4970" as="sourcePoint" />
+            <mxPoint x="2070" y="-5020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-102" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;医疗数据采集&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-4740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-95" target="l-RV9WYsL8Un5XXR3H3W-102" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="-4970" as="sourcePoint" />
+            <mxPoint x="2070" y="-5020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-104" value="管理健康资讯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="-4950" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-105" value="管理疾病科普文章" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="-4850" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-98" target="l-RV9WYsL8Un5XXR3H3W-112" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2250" y="-4970" as="sourcePoint" />
+            <mxPoint x="2360.050055826665" y="-5174.054730484144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-107" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-100" target="l-RV9WYsL8Un5XXR3H3W-105" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2280" y="-5080" as="sourcePoint" />
+            <mxPoint x="2410" y="-5077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-108" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-100" target="l-RV9WYsL8Un5XXR3H3W-104" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2270" y="-5056.5" as="sourcePoint" />
+            <mxPoint x="2400" y="-5053.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-109" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-102" target="l-RV9WYsL8Un5XXR3H3W-110" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2273" y="-5094" as="sourcePoint" />
+            <mxPoint x="2403" y="-5091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-110" value="&lt;font size=&quot;1&quot;&gt;启动/结束爬虫&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="-4750" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2369.9999999999995" y="-4830" as="sourcePoint" />
+            <mxPoint x="2369.9999999999995" y="-4830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-112" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="-5210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="-5060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.665;exitY=0.668;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-95" target="l-RV9WYsL8Un5XXR3H3W-113" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="-4790" as="sourcePoint" />
+            <mxPoint x="1880" y="-5080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-115" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-102" target="l-RV9WYsL8Un5XXR3H3W-116" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2040.0009806835812" y="-4599.306462651057" as="sourcePoint" />
+            <mxPoint x="2394.36" y="-5011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-116" value="&lt;font size=&quot;1&quot;&gt;数据清洗&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="-4676" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-139" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;医生&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="-5760" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-140" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;登录/注册&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3193" y="-6190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-141" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.609;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-139" target="l-RV9WYsL8Un5XXR3H3W-140" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3190" y="-5680" as="sourcePoint" />
+            <mxPoint x="3240" y="-5730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-142" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;个人信息管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="-6010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-143" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-139" target="l-RV9WYsL8Un5XXR3H3W-142" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3310" y="-5770" as="sourcePoint" />
+            <mxPoint x="3360" y="-5820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-144" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;患者病历&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="-5700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-145" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.512;exitY=0.793;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-139" target="l-RV9WYsL8Un5XXR3H3W-144" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3310" y="-5770" as="sourcePoint" />
+            <mxPoint x="3360" y="-5820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-146" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;治疗方案管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="-5540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-147" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.493;exitY=0.726;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-139" target="l-RV9WYsL8Un5XXR3H3W-146" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3310" y="-5770" as="sourcePoint" />
+            <mxPoint x="3360" y="-5820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-148" value="病史记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3571.36" y="-5800" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-149" value="检查结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3571.36" y="-5660" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-150" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-142" target="l-RV9WYsL8Un5XXR3H3W-156" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3540" y="-5770" as="sourcePoint" />
+            <mxPoint x="3650.050055826665" y="-5974.054730484144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-151" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-144" target="l-RV9WYsL8Un5XXR3H3W-149" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3570" y="-5880" as="sourcePoint" />
+            <mxPoint x="3700" y="-5877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-152" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-144" target="l-RV9WYsL8Un5XXR3H3W-148" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3560" y="-5856.5" as="sourcePoint" />
+            <mxPoint x="3690" y="-5853.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-153" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-146" target="l-RV9WYsL8Un5XXR3H3W-154" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3563" y="-5894" as="sourcePoint" />
+            <mxPoint x="3693" y="-5891" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-154" value="&lt;font size=&quot;1&quot;&gt;健康提醒&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-5500" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3659.9999999999995" y="-5630" as="sourcePoint" />
+            <mxPoint x="3659.9999999999995" y="-5630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-156" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="-6010" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-157" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;预约信息管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="-5860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-158" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.665;exitY=0.668;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-139" target="l-RV9WYsL8Un5XXR3H3W-157" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2890" y="-5590" as="sourcePoint" />
+            <mxPoint x="3170" y="-5880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-159" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-146" target="l-RV9WYsL8Un5XXR3H3W-160" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3330.0009806835815" y="-5399.306462651057" as="sourcePoint" />
+            <mxPoint x="3684.36" y="-5811" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-160" value="&lt;font size=&quot;1&quot;&gt;生成治疗建议&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="-5420" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-161" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-113">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2059.95" y="-5030.31" as="sourcePoint" />
+            <mxPoint x="2289.95" y="-5033.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-164" value="删除/添加用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="-5060" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-165" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;疾病预测结果管理&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="-4550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-166" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.629;exitY=0.755;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="l-RV9WYsL8Un5XXR3H3W-165" parent="1" source="l-RV9WYsL8Un5XXR3H3W-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1365" y="-4829.56" as="sourcePoint" />
+            <mxPoint x="2060" y="-4933.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-167" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;包含&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" source="l-RV9WYsL8Un5XXR3H3W-165" target="l-RV9WYsL8Un5XXR3H3W-169" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2263" y="-5007.56" as="sourcePoint" />
+            <mxPoint x="2393" y="-5004.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-169" value="&lt;font size=&quot;1&quot;&gt;编辑/删除疾病预测结果&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="-4550" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-175" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据展示&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="-4405.3" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-176" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" target="l-RV9WYsL8Un5XXR3H3W-175" parent="1" source="l-RV9WYsL8Un5XXR3H3W-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1379" y="-4770.3" as="sourcePoint" />
+            <mxPoint x="2060" y="-4788.860000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
