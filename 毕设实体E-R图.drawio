@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.4">
   <diagram name="第 1 页" id="sK5CW0gL5bVgwP4VUOw-">
-    <mxGraphModel dx="4275" dy="8425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4334" dy="10962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -842,6 +842,162 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1379" y="-4770.3" as="sourcePoint" />
             <mxPoint x="2060" y="-4788.860000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-177" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;个性化医疗方案推荐系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6280" y="-6380" width="990" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-178" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="l-RV9WYsL8Un5XXR3H3W-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6775" y="-5960" as="sourcePoint" />
+            <mxPoint x="6640" y="-5220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-179" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5690" y="-5960" as="sourcePoint" />
+            <mxPoint x="6780" y="-5960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-183" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;登录注册模块&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="5660" y="-5640" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-185" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;个人信息管理模块&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6080" y="-5640" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-190" value="&lt;h2&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;疾病信息数据管理模块&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6970" y="-5640" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-192" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;个人化推荐模块&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="-5640" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-194" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;数据可视化模块&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="7640" y="-5640" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-195" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6780" y="-5960" as="sourcePoint" />
+            <mxPoint x="7440" y="-5960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-197" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="l-RV9WYsL8Un5XXR3H3W-183">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5695" y="-5960" as="sourcePoint" />
+            <mxPoint x="6260" y="-5470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-199" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6110" y="-5960" as="sourcePoint" />
+            <mxPoint x="6110" y="-5640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-200" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6460" y="-5960" as="sourcePoint" />
+            <mxPoint x="6460" y="-5640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-201" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7000.3" y="-5960" as="sourcePoint" />
+            <mxPoint x="7000" y="-5630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-202" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7324.52" y="-5960" as="sourcePoint" />
+            <mxPoint x="7324.75" y="-5630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-203" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7440" y="-5960" as="sourcePoint" />
+            <mxPoint x="7670.835802801724" y="-5630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="7670" y="-5960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-204" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;用户交互界面模块&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6430" y="-5640" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-205" value="&lt;h2&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;疾病浏览搜索&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6168" y="-5000" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-208" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;医生浏览搜索&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6340" y="-5000" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-209" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;用户交互界面模块&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6510" y="-5000" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-212" value="&lt;h2&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;用户交互界面模块&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6640" y="-5000" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-217" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-204" target="l-RV9WYsL8Un5XXR3H3W-205">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6400" y="-5060" as="sourcePoint" />
+            <mxPoint x="6450" y="-5110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="6465" y="-5230" />
+              <mxPoint x="6210" y="-5230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-218" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-204" target="l-RV9WYsL8Un5XXR3H3W-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6400" y="-5060" as="sourcePoint" />
+            <mxPoint x="6380" y="-5120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="6465" y="-5230" />
+              <mxPoint x="6370" y="-5230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-220" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-204" target="l-RV9WYsL8Un5XXR3H3W-209">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6440" y="-5170" as="sourcePoint" />
+            <mxPoint x="6490" y="-5220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="6465" y="-5230" />
+              <mxPoint x="6550" y="-5230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-221" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-204" target="l-RV9WYsL8Un5XXR3H3W-212">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6440" y="-5170" as="sourcePoint" />
+            <mxPoint x="6490" y="-5220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="6465" y="-5230" />
+              <mxPoint x="6670" y="-5230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-225" value="&lt;h2&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;疾病信息数据删除&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="7100" y="-5000" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-226" value="&lt;h2&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;疾病信息数据添加&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="6890" y="-5000" width="70" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-227" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-190" target="l-RV9WYsL8Un5XXR3H3W-226">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6990" y="-5080" as="sourcePoint" />
+            <mxPoint x="7040" y="-5130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="7005" y="-5180" />
+              <mxPoint x="6925" y="-5180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-228" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="l-RV9WYsL8Un5XXR3H3W-190" target="l-RV9WYsL8Un5XXR3H3W-225">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6990" y="-5080" as="sourcePoint" />
+            <mxPoint x="7040" y="-5130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="7005" y="-5180" />
+              <mxPoint x="7130" y="-5180" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
