@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="sK5CW0gL5bVgwP4VUOw-">
-    <mxGraphModel dx="3143" dy="12714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2359" dy="11560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1185,6 +1185,36 @@
         </mxCell>
         <mxCell id="W4hyXJbX5QkF7E50wNgy-20" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;结束&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6930" y="-9080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7580" y="-10340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-28" target="W4hyXJbX5QkF7E50wNgy-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7660" y="-10010" as="sourcePoint" />
+            <mxPoint x="7710" y="-10060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;进入患者信息管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7575" y="-10180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-30" target="W4hyXJbX5QkF7E50wNgy-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7660" y="-10020" as="sourcePoint" />
+            <mxPoint x="7640" y="-10040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新患者信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7580" y="-10050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-32" target="W4hyXJbX5QkF7E50wNgy-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7660" y="-10020" as="sourcePoint" />
+            <mxPoint x="7640" y="-9900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7580" y="-9930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
