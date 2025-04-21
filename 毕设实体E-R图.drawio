@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="sK5CW0gL5bVgwP4VUOw-">
-    <mxGraphModel dx="2292" dy="12630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3568" dy="13341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -893,8 +893,8 @@
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-230" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5640" y="-6670" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-231" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="7370" y="-6730" width="210" height="80" as="geometry" />
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-231" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;管理员(医生拥有部分功能模块)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="7320" y="-6790" width="300" height="130" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-232" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="l-RV9WYsL8Un5XXR3H3W-231" target="l-RV9WYsL8Un5XXR3H3W-177" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -918,10 +918,10 @@
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-237" value="&lt;h2&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;坐诊医生管理&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="7230" y="-6390" width="70" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-238" value="&lt;h2&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;预约挂号管理&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-238" value="&lt;h2&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;预约挂号管理(医生)&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="7400" y="-6390" width="70" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-239" value="&lt;h2&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;患者病历管理&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
+        <mxCell id="l-RV9WYsL8Un5XXR3H3W-239" value="&lt;h2&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;患者病历管理(医生)&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="7590" y="-6390" width="70" height="280" as="geometry" />
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-240" value="&lt;h2&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;治疗方案管理&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
@@ -1024,33 +1024,6 @@
               <mxPoint x="7965" y="-6510" />
               <mxPoint x="7470" y="-6510" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-256" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="l-RV9WYsL8Un5XXR3H3W-258" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6780" y="-6040" as="sourcePoint" />
-            <mxPoint x="6580" y="-6860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-258" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;医生端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="6490" y="-6650" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-260" value="&lt;h2&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;患者信息管理&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="6410" y="-6380" width="70" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-261" value="&lt;h2&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;预约信息管理&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;flipH=1;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="6710" y="-6380" width="70" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-263" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="l-RV9WYsL8Un5XXR3H3W-260" target="l-RV9WYsL8Un5XXR3H3W-258" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6590" y="-6230" as="sourcePoint" />
-            <mxPoint x="6640" y="-6280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l-RV9WYsL8Un5XXR3H3W-264" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="l-RV9WYsL8Un5XXR3H3W-261" target="l-RV9WYsL8Un5XXR3H3W-258" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6590" y="-6230" as="sourcePoint" />
-            <mxPoint x="6640" y="-6280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l-RV9WYsL8Un5XXR3H3W-266" value="个人中心模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1217,7 +1190,124 @@
           <mxGeometry x="7318" y="-9120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W4hyXJbX5QkF7E50wNgy-35" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7810" y="-10730" width="120" height="60" as="geometry" />
+          <mxGeometry x="7670" y="-9530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;进入预约管理界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7670" y="-9381" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-35" target="W4hyXJbX5QkF7E50wNgy-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7690" y="-9180" as="sourcePoint" />
+            <mxPoint x="7740" y="-9330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户预约信息操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7670" y="-9240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-36" target="W4hyXJbX5QkF7E50wNgy-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7690" y="-9180" as="sourcePoint" />
+            <mxPoint x="7740" y="-9230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-38" target="W4hyXJbX5QkF7E50wNgy-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7690" y="-9190" as="sourcePoint" />
+            <mxPoint x="7740" y="-9070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7670" y="-9110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-42" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8060" y="-9530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-42" target="W4hyXJbX5QkF7E50wNgy-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8150" y="-8810" as="sourcePoint" />
+            <mxPoint x="8120" y="-9390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-44" value="进入医生管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8060" y="-9370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-44" target="W4hyXJbX5QkF7E50wNgy-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8090" y="-9200" as="sourcePoint" />
+            <mxPoint x="8140" y="-9250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-46" value="调度医生坐诊安排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8060" y="-9240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-46" target="W4hyXJbX5QkF7E50wNgy-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8090" y="-9200" as="sourcePoint" />
+            <mxPoint x="8150" y="-9090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-48" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8060" y="-9120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-49" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8680" y="-9530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="W4hyXJbX5QkF7E50wNgy-49" target="W4hyXJbX5QkF7E50wNgy-51" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8770" y="-8810" as="sourcePoint" />
+            <mxPoint x="8740" y="-9390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-51" value="进入患者病例管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8680" y="-9370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="W4hyXJbX5QkF7E50wNgy-51" target="W4hyXJbX5QkF7E50wNgy-53" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8710" y="-9200" as="sourcePoint" />
+            <mxPoint x="8760" y="-9250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-53" value="记录修改患者病例操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8670" y="-9240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" source="W4hyXJbX5QkF7E50wNgy-53" target="W4hyXJbX5QkF7E50wNgy-55" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8710" y="-9200" as="sourcePoint" />
+            <mxPoint x="8770" y="-9090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-55" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8680" y="-9120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-56" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9445.5" y="-10240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-56" target="W4hyXJbX5QkF7E50wNgy-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9420" y="-9910" as="sourcePoint" />
+            <mxPoint x="9511" y="-10080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-58" value="进入治疗方案管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9440" y="-10110" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-58" target="W4hyXJbX5QkF7E50wNgy-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9500" y="-9900" as="sourcePoint" />
+            <mxPoint x="9550" y="-9950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-60" value="查看编辑治疗方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="-9940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="W4hyXJbX5QkF7E50wNgy-58" target="W4hyXJbX5QkF7E50wNgy-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9500" y="-9900" as="sourcePoint" />
+            <mxPoint x="9600" y="-9950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4hyXJbX5QkF7E50wNgy-62" value="健康提醒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9550" y="-9940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
